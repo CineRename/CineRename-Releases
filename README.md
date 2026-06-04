@@ -1,12 +1,30 @@
 # CineRename Releases
 
-This repository hosts the official public releases and binaries for **CineRename**.
+This repository hosts CineRename public release artifacts while the application source repository remains private.
 
-## Download
-You can download the latest version of CineRename from the [Releases page](https://github.com/CineRename/CineRename-Releases/releases) or directly from our [official website](https://cinerenamelanding.epikaigle444.workers.dev).
+## Downloads
 
-## License
-The license key is required to unlock the full features of the application. Please purchase a license from our website if you haven't already.
+Installers are published from tagged builds of `CineRename/CineRename`:
 
----
-*Note: This repository is for distribution only. The source code remains private.*
+- Windows x64: `.exe` and `.msi`
+- macOS Apple Silicon: `.dmg` and `.pkg`
+- macOS Intel: `.dmg` and `.pkg`
+- Linux x64: `.AppImage`, `.deb` and `.rpm`
+- NAS/server: Linux `x64` and `arm64` tarballs
+- Docker: `ghcr.io/cinerename/cinerename`
+
+Always verify downloaded files with the `SHA256SUMS.txt` asset from the same release.
+
+## Docker
+
+```bash
+docker run --rm \
+  -v /path/to/config:/config \
+  -v /path/to/media:/media \
+  ghcr.io/cinerename/cinerename:latest \
+  auto /media/Inbox --to /media/Library --subs fr --json
+```
+
+## Support
+
+CineRename is in beta. Release notes for each version list the exact supported installers and known limitations.
