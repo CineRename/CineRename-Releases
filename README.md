@@ -47,6 +47,7 @@ docker run --rm -v /path/to/config:/config -v /path/to/media:/media cinerename:0
 ## Verification
 
 - [SHA256SUMS](https://github.com/CineRename/CineRename-Releases/releases/latest/download/SHA256SUMS)
+- [Release notes](https://github.com/CineRename/CineRename-Releases/releases/latest/download/RELEASE_NOTES.md)
 - [Release manifest](https://github.com/CineRename/CineRename-Releases/releases/latest/download/release-manifest.json)
 - [Release report](https://github.com/CineRename/CineRename-Releases/releases/latest/download/RELEASE_REPORT.md)
 
@@ -54,12 +55,13 @@ docker run --rm -v /path/to/config:/config -v /path/to/media:/media cinerename:0
 
 Direct desktop builds use the `updater/` JSON files in this repository. Store and package-manager builds should use their own update channel.
 
+- macOS x64: `updater/darwin/x86_64/latest.json`
 - Linux x64: `updater/linux/x86_64/latest.json`
 - Windows x64: `updater/windows/x86_64/latest.json`
-- macOS x64: `updater/darwin/x86_64/latest.json`
 
 ## Notes
 
 - Windows and macOS installers are unsigned for now.
-- The `0.5.x` series is the public pre-1.0 channel.
+- Version 0.5.0 is the first public release and the most stable CineRename build available today.
+- The 0.5.x version number leaves room for final user feedback before the 1.0 milestone.
 - Support, bug reports and feature requests: cinerename@gmail.com
