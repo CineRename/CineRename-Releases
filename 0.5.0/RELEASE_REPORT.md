@@ -1,8 +1,8 @@
 # CineRename 0.5.0 Release Report
 
-Generated at: 2026-06-29T11:21:31.417Z
-Commit: 7a6abd6bccf1147c1a86df2303917eabd85698d4
-GitHub Actions run: https://github.com/CineRename/CineRename/actions/runs/28365989852
+Generated at: 2026-07-09T11:16:30.808Z
+Commit: 85edeeb4c23e28a8a0227e4151f29377d3dde799
+GitHub Actions run: https://github.com/CineRename/CineRename/actions/runs/29012074951
 
 ## Generated Artifacts
 
@@ -13,7 +13,11 @@ GitHub Actions run: https://github.com/CineRename/CineRename/actions/runs/283659
 - `CineRename_0.5.0_amd64.deb.sig`
 - `CineRename_0.5.0_docker_linux_amd64.tar.gz`
 - `CineRename_0.5.0_docker_linux_arm64.tar.gz`
+- `CineRename_0.5.0_macos_arm64.app.tar.gz`
+- `CineRename_0.5.0_macos_arm64.app.tar.gz.sig`
 - `CineRename_0.5.0_macos_arm64.pkg`
+- `CineRename_0.5.0_macos_x64.app.tar.gz`
+- `CineRename_0.5.0_macos_x64.app.tar.gz.sig`
 - `CineRename_0.5.0_macos_x64.pkg`
 - `CineRename_0.5.0_nas_linux_aarch64.tar.xz`
 - `CineRename_0.5.0_nas_linux_x86_64.tar.xz`
@@ -26,8 +30,6 @@ GitHub Actions run: https://github.com/CineRename/CineRename/actions/runs/283659
 - `CineRename_0.5.0_x64.dmg`
 - `CineRename-0.5.0-1.x86_64.rpm`
 - `CineRename-0.5.0-1.x86_64.rpm.sig`
-- `CineRename.app.tar.gz`
-- `CineRename.app.tar.gz.sig`
 
 ## Not Generated In This Run
 

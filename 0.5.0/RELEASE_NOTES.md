@@ -7,25 +7,26 @@ CineRename 0.5.0 is the first public release and the most stable build available
 Recommended installers:
 
 - [Windows x64 installer (.exe)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_x64-setup.exe) (8.3 MB)
-- [Windows x64 installer (.msi)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_x64_en-US.msi) (11.5 MB)
-- [macOS Apple Silicon (.dmg)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_aarch64.dmg) (11.0 MB)
-- [macOS Intel (.dmg)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_x64.dmg) (11.6 MB)
-- [Linux x64 AppImage](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_amd64.AppImage) (82.6 MB)
-- [Linux x64 .deb](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_amd64.deb) (12.3 MB)
-- [Linux x64 .rpm](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename-0.5.0-1.x86_64.rpm) (12.3 MB)
+- [Windows x64 installer (.msi)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_x64_en-US.msi) (11.4 MB)
+- [macOS Apple Silicon (.dmg)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_aarch64.dmg) (11.7 MB)
+- [macOS Intel (.dmg)](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_x64.dmg) (12.5 MB)
+- [Linux x64 AppImage](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_amd64.AppImage) (82.4 MB)
+- [Linux x64 .deb](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_amd64.deb) (12.0 MB)
+- [Linux x64 .rpm](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename-0.5.0-1.x86_64.rpm) (12.0 MB)
 
 Server and automation builds:
 
 - [NAS / headless Linux x64](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_nas_linux_x86_64.tar.xz) (12.8 MB)
 - [NAS / headless Linux arm64](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_nas_linux_aarch64.tar.xz) (11.7 MB)
-- [Docker archive x64](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_docker_linux_amd64.tar.gz) (57.5 MB)
+- [Docker archive x64](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_docker_linux_amd64.tar.gz) (57.6 MB)
 - [Docker archive arm64](https://github.com/CineRename/CineRename-Releases/releases/latest/download/CineRename_0.5.0_docker_linux_arm64.tar.gz) (56.0 MB)
 
 You can also open the [download overview](https://github.com/CineRename/CineRename-Releases#recommended-downloads) for a clearer OS-by-OS list.
+Full installation and usage docs are available at [cinerename.app/docs](https://cinerename.app/docs/).
 
 ## Highlights
 
-- Rename and organize movies, series and anime with a safe preview before touching files.
+- Rename and organize movies, TV shows and anime with a safe preview before touching files.
 - Ready-made Plex, Jellyfin and Kodi naming profiles, including media folders and ID-aware formats.
 - Anime support with absolute episode numbering, AniList/Kitsu lookup and localized episode titles through TheTVDB when available.
 - Dry-run exports, rename history and undo/rollback for safer bulk operations.
