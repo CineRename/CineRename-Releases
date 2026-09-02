@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.1",
+  "generatedAt": "2026-09-02T10:59:15.739Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.1",
+      "badge": "Latest release",
+      "items": [
+        "Makes rename jobs safer by improving recovery and undo when a move, copy, or rename is interrupted.",
+        "Makes history more reliable, so completed actions are easier to review and roll back.",
+        "Improves the built-in updater with stronger signature checks and a safer restart after installing an update.",
+        "Important for macOS: users on 0.5.0 must install 0.5.1 manually from the DMG or PKG; Windows and Linux can keep using the built-in updater.",
+        "Keeps rename behavior consistent between the desktop app, CLI, NAS builds, and Docker archives.",
+        "Improves day-to-day stability for the interface.",
+        "Adds clearer release downloads and verification files so users can choose the right installer and check it if needed."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.1",
+      "badge": "Derniere version",
+      "items": [
+        "Rend les renommages plus sûrs grâce à une meilleure récupération et annulation lorsqu'un déplacement, une copie ou un renommage est interrompu.",
+        "Rend l'historique plus fiable, pour revoir les actions terminées et revenir en arrière plus sereinement.",
+        "Améliore la mise à jour intégrée avec des signatures mieux vérifiées et un redémarrage plus sûr après installation.",
+        "Important sur macOS : les utilisateurs en 0.5.0 doivent installer la 0.5.1 manuellement depuis le DMG ou le PKG ; Windows et Linux peuvent continuer à utiliser la mise à jour intégrée.",
+        "Garde un comportement de renommage cohérent entre l'application, la CLI, les builds NAS et les archives Docker.",
+        "Améliore la stabilité de l'interface au quotidien.",
+        "Ajoute des téléchargements plus clairs et des fichiers de vérification pour choisir le bon installateur et le contrôler si besoin."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.1",
+      "badge": "Ultima version",
+      "items": [
+        "Hace más seguros los renombrados al mejorar la recuperación y la reversión cuando se interrumpe un movimiento, una copia o un renombrado.",
+        "Hace más fiable el historial, para revisar acciones completadas y deshacer cambios con más tranquilidad.",
+        "Mejora el actualizador integrado con comprobaciones de firma más estrictas y un reinicio más seguro después de instalar una actualización.",
+        "Importante en macOS: los usuarios en 0.5.0 deben instalar 0.5.1 manualmente desde el DMG o PKG; Windows y Linux pueden seguir usando el actualizador integrado.",
+        "Mantiene un comportamiento de renombrado coherente entre la aplicación de escritorio, la CLI, los builds NAS y los archivos Docker.",
+        "Mejora la estabilidad diaria de la interfaz.",
+        "Añade descargas más claras y archivos de verificación para elegir el instalador correcto y comprobarlo si hace falta."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.1",
+      "badge": "最新版本",
+      "items": [
+        "当移动、复制或重命名被中断时，重命名任务更容易恢复和撤销。",
+        "提高历史记录可靠性，方便查看已完成操作并更安心地回滚。",
+        "改进内置更新器：加强签名校验，并在安装更新后更安全地重启应用。",
+        "macOS 重要说明：仍在 0.5.0 的用户需要通过 DMG 或 PKG 手动安装 0.5.1；Windows 和 Linux 可继续使用内置更新。",
+        "让桌面应用、CLI、NAS 构建和 Docker 归档保持一致的重命名行为。",
+        "提升界面在日常使用中的稳定性。",
+        "提供更清晰的发布下载和校验文件，方便选择正确安装包并按需验证。"
+      ]
+    }
+  }
+}
