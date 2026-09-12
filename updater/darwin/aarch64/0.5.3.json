@@ -1,0 +1,15 @@
+{
+  "version": "0.5.3",
+  "pub_date": "2026-09-12T18:38:27.556Z",
+  "notes": "CineRename 0.5.3",
+  "platforms": {
+    "darwin-aarch64-app": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.3/CineRename_0.5.3_macos_arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjRlN1BDVEF0cDJaelJNcnM2NlB0NGpZaEFKUVZvdi9VRUtGS0FLeFkrYnE2SWhqYXFIY0RoMkF5eWVEWlExeUFvVDN2TkxoTldJZGZXVmxUbVpDVlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjM3OTAwCWZpbGU6Q2luZVJlbmFtZS5hcHAudGFyLmd6Ci9sUXdvTFZaT3Vkc0lnajkxbk5jcVg3bTlFMGxrTG1DbTRnOXdxQkFDRjEyb3VSK0o0cHI5MS9QUi9pZXkyQzB4cTlsOGxIblM2SjFWemFTazRyWEF3PT0K"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.3/CineRename_0.5.3_macos_arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjRlN1BDVEF0cDJaelJNcnM2NlB0NGpZaEFKUVZvdi9VRUtGS0FLeFkrYnE2SWhqYXFIY0RoMkF5eWVEWlExeUFvVDN2TkxoTldJZGZXVmxUbVpDVlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjM3OTAwCWZpbGU6Q2luZVJlbmFtZS5hcHAudGFyLmd6Ci9sUXdvTFZaT3Vkc0lnajkxbk5jcVg3bTlFMGxrTG1DbTRnOXdxQkFDRjEyb3VSK0o0cHI5MS9QUi9pZXkyQzB4cTlsOGxIblM2SjFWemFTazRyWEF3PT0K"
+    }
+  }
+}
