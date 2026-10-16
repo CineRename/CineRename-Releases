@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.6",
+  "generatedAt": "2026-10-16T21:04:24.398Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.6",
+      "badge": "Latest release",
+      "items": [
+        "Save separate destinations for movies, TV shows and anime.",
+        "More accurate progress and improved cancellation for large file transfers.",
+        "Improved macOS installer integrity.",
+        "Clearer, less intrusive update notifications."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.6",
+      "badge": "Derniere version",
+      "items": [
+        "Préréglages de destinations séparées pour les films, séries et animés.",
+        "Progression et annulation des gros transferts améliorées.",
+        "Amélioration de l’intégrité des installateurs macOS.",
+        "Notifications de mise à jour plus claires et plus discrètes."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.6",
+      "badge": "Ultima version",
+      "items": [
+        "Preajustes con destinos separados para películas, series y anime.",
+        "Progreso más preciso y mejor cancelación de transferencias de archivos grandes.",
+        "Mejoras en la integridad de los instaladores de macOS.",
+        "Notificaciones de actualización más claras y discretas."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.6",
+      "badge": "最新版本",
+      "items": [
+        "为电影、剧集和动画保存各自的目标位置预设。",
+        "改进大文件传输的进度显示和取消操作。",
+        "增强 macOS 安装包的完整性。",
+        "更新通知更加清晰，减少干扰。"
+      ]
+    }
+  }
+}
