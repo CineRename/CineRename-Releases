@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.7",
+  "generatedAt": "2026-10-18T10:20:00.445Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.7",
+      "badge": "Latest release",
+      "items": [
+        "Choose a saved destination for selected files directly in Studio, with a path preview and no changes to your automation settings.",
+        "Read translated release notes offline by clicking the installed version.",
+        "Settings remain accessible while the local index initializes at startup."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.7",
+      "badge": "Derniere version",
+      "items": [
+        "Choisissez une destination enregistrée pour les fichiers sélectionnés directement dans Studio, avec aperçu du chemin et sans modifier vos réglages d’automatisation.",
+        "Consultez les nouveautés traduites hors ligne en cliquant sur la version installée.",
+        "Les réglages restent accessibles pendant l’initialisation de l’index local au démarrage."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.7",
+      "badge": "Ultima version",
+      "items": [
+        "Elija un destino guardado para los archivos seleccionados directamente en Studio, con una vista previa de la ruta y sin cambiar sus ajustes de automatización.",
+        "Consulte las novedades traducidas sin conexión haciendo clic en la versión instalada.",
+        "Los ajustes siguen disponibles mientras se inicializa el índice local al arrancar."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.7",
+      "badge": "最新版本",
+      "items": [
+        "直接在 Studio 中为所选文件选择已保存的目标位置，预览目标路径，无需更改自动化设置。",
+        "点击已安装版本号，即可离线查看翻译后的版本更新说明。",
+        "启动时初始化本地索引期间，仍可访问设置。"
+      ]
+    }
+  }
+}
