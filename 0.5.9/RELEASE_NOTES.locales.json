@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.9",
+  "generatedAt": "2026-10-26T10:03:34.986Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.9",
+      "badge": "Latest release",
+      "items": [
+        "ZIP imports show files before completion and report extraction and cache verification progress more accurately.",
+        "Studio uses your saved source and preset to prepare matches, while preserving your choices when adding files or refreshing matches.",
+        "More reliable settings saving and macOS keychain access, with fewer repeated password prompts."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.9",
+      "badge": "Derniere version",
+      "items": [
+        "Les fichiers des ZIP s’affichent avant la fin de l’import, avec une progression plus précise de l’extraction et de la vérification du cache.",
+        "Le Studio reprend la source et le preset enregistrés pour préparer les correspondances, tout en conservant vos choix lors des ajouts et actualisations.",
+        "La sauvegarde des réglages et l’accès au trousseau macOS sont plus fiables, avec moins de demandes répétées de mot de passe."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.9",
+      "badge": "Ultima version",
+      "items": [
+        "Los archivos de los ZIP se muestran antes de que termine la importación, con un progreso más preciso de la extracción y la verificación de la caché.",
+        "Studio utiliza la fuente y el preajuste guardados para buscar coincidencias, conservando tus elecciones al añadir archivos o actualizar las coincidencias.",
+        "El guardado de ajustes y el acceso al llavero de macOS son más fiables, con menos solicitudes repetidas de contraseña."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.9",
+      "badge": "最新版本",
+      "items": [
+        "ZIP 中的文件会在导入完成前显示，解压和缓存校验的进度更加准确。",
+        "Studio 使用已保存的数据源和预设查找匹配结果，并在添加文件或刷新匹配结果时保留你的选择。",
+        "提升了设置保存和 macOS 钥匙串访问的可靠性，减少重复的密码提示。"
+      ]
+    }
+  }
+}

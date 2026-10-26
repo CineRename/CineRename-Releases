@@ -1,0 +1,23 @@
+{
+  "version": "0.5.9",
+  "pub_date": "2026-10-26T10:03:34.370Z",
+  "notes": "CineRename 0.5.9",
+  "platforms": {
+    "linux-x86_64-appimage": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.9/CineRename_0.5.9_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjF5Q054RWRraG9JV2VMRllRM0dJdDZ1L1ZKZDA4Z2VBL1dYWGQ5QWRML25vMTE2bEU3U1JqZlE0cWd1S0JzYkNZK0luS1A2Wk1DditHQStZeTlFUEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA3ODgyCWZpbGU6Q2luZVJlbmFtZV8wLjUuOV9hbWQ2NC5BcHBJbWFnZQp5OHRkbi82Q2pDSGFCL3k4cGsyWWd3RlMrWlExNkNjb014VzVvNkpDQ01IeWhqYWoyR21HNGxBZW1DaEROWnNwQjhDb3Jxdkp0Q0pDakloaENGV2pCUT09Cg=="
+    },
+    "linux-x86_64-deb": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.9/CineRename_0.5.9_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjc5RjE2MkhuK0ROd0hxQVpxRStGcVRBbWJacXBjcVlaQjQ0VjFBMlhxRnRBRzRxa2tGS3lxSEd2dnJUYkZGY1gxV3g0TWtrOUlaa3ZOQ3dobDJRQlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA3ODgyCWZpbGU6Q2luZVJlbmFtZV8wLjUuOV9hbWQ2NC5kZWIKTWlJajh1WjJiNStyRmFrS2NHM1VnaDJ1czNONi9vbFNvbkcwbjdOYllHeklkdHEvWXQ1REdsZDFRZ0QyY3hZeHBLa3dFalBuVjVkUDJQSHZqZFdJQUE9PQo="
+    },
+    "linux-x86_64-rpm": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.9/CineRename-0.5.9-1.x86_64.rpm",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQnlob3ZXSU1ZS21ETmRtQksyaGxveHByN2I5bWxjd25QemZCemo4dWU0WDRsdk1HbUNkVUFmVEF3dE42enFhNEp1WEM4dmgzMzRpckhVSVkraFl3cEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA3ODgyCWZpbGU6Q2luZVJlbmFtZS0wLjUuOS0xLng4Nl82NC5ycG0KUmVrdTlubHRoSVY4NGh5bUs0aWYrck9QeFRDWmdMZHV5aU0xL0NIWjY5Q2JYSHh0cVhiU0QzNjFMdmV2Zjc0b1Jza1psUHhHT3U4aHZlQ21KaUFpQVE9PQo="
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.9/CineRename_0.5.9_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjF5Q054RWRraG9JV2VMRllRM0dJdDZ1L1ZKZDA4Z2VBL1dYWGQ5QWRML25vMTE2bEU3U1JqZlE0cWd1S0JzYkNZK0luS1A2Wk1DditHQStZeTlFUEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA3ODgyCWZpbGU6Q2luZVJlbmFtZV8wLjUuOV9hbWQ2NC5BcHBJbWFnZQp5OHRkbi82Q2pDSGFCL3k4cGsyWWd3RlMrWlExNkNjb014VzVvNkpDQ01IeWhqYWoyR21HNGxBZW1DaEROWnNwQjhDb3Jxdkp0Q0pDakloaENGV2pCUT09Cg=="
+    }
+  }
+}
