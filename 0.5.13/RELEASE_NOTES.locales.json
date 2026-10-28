@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.13",
+  "generatedAt": "2026-10-28T21:55:32.549Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.13",
+      "badge": "Latest release",
+      "items": [
+        "Makes cancelling and restarting batches more reliable, with safer file restoration and clearer recovery messages.",
+        "Studio activity reports can now be hidden during processing and reopened from the status bar."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.13",
+      "badge": "Derniere version",
+      "items": [
+        "Fiabilise l’annulation et la reprise des lots, avec une meilleure restauration des fichiers et des messages de récupération plus clairs.",
+        "Permet de masquer le bilan du Studio pendant un traitement et de le rouvrir depuis la barre d’état."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.13",
+      "badge": "Ultima version",
+      "items": [
+        "Mejora la cancelación y el reinicio de lotes, con una restauración de archivos más fiable y mensajes de recuperación más claros.",
+        "Los informes de actividad de Studio se pueden ocultar durante el procesamiento y volver a abrir desde la barra de estado."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.13",
+      "badge": "最新版本",
+      "items": [
+        "改进批量任务的取消与重新启动，让文件恢复更可靠，并提供更清晰的恢复提示。",
+        "处理期间可隐藏 Studio 活动报告，并可从状态栏重新打开。"
+      ]
+    }
+  }
+}
