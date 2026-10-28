@@ -1,0 +1,140 @@
+{
+  "productName": "CineRename",
+  "version": "0.5.12",
+  "generatedAt": "2026-10-28T18:08:58.349Z",
+  "gitCommit": "7c754d5d390d7bfbf69a4ee5b248f018a42ce9ec",
+  "appRepository": "https://github.com/CineRename/CineRename",
+  "releaseRepository": "https://github.com/CineRename/CineRename-Releases",
+  "artifacts": [
+    {
+      "file": "CineRename_0.5.12_aarch64.dmg",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_aarch64.dmg",
+      "size": 13991488
+    },
+    {
+      "file": "CineRename_0.5.12_amd64.AppImage",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_amd64.AppImage",
+      "size": 88455672
+    },
+    {
+      "file": "CineRename_0.5.12_amd64.AppImage.sig",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_amd64.AppImage.sig",
+      "size": 424
+    },
+    {
+      "file": "CineRename_0.5.12_amd64.deb",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_amd64.deb",
+      "size": 13611496
+    },
+    {
+      "file": "CineRename_0.5.12_amd64.deb.sig",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_amd64.deb.sig",
+      "size": 416
+    },
+    {
+      "file": "cinerename_0.5.12_amd64.snap",
+      "source": "release-artifacts/0.5.12/cinerename_0.5.12_amd64.snap",
+      "size": 87220224
+    },
+    {
+      "file": "CineRename_0.5.12_docker_linux_amd64.tar.gz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_docker_linux_amd64.tar.gz",
+      "size": 71975190
+    },
+    {
+      "file": "CineRename_0.5.12_docker_linux_arm64.tar.gz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_docker_linux_arm64.tar.gz",
+      "size": 69279858
+    },
+    {
+      "file": "CineRename_0.5.12_macos_arm64.app.tar.gz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_macos_arm64.app.tar.gz",
+      "size": 12403601
+    },
+    {
+      "file": "CineRename_0.5.12_macos_arm64.app.tar.gz.sig",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_macos_arm64.app.tar.gz.sig",
+      "size": 408
+    },
+    {
+      "file": "CineRename_0.5.12_macos_arm64.pkg",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_macos_arm64.pkg",
+      "size": 12093411
+    },
+    {
+      "file": "CineRename_0.5.12_macos_x64.app.tar.gz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_macos_x64.app.tar.gz",
+      "size": 13418148
+    },
+    {
+      "file": "CineRename_0.5.12_macos_x64.app.tar.gz.sig",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_macos_x64.app.tar.gz.sig",
+      "size": 408
+    },
+    {
+      "file": "CineRename_0.5.12_macos_x64.pkg",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_macos_x64.pkg",
+      "size": 13209474
+    },
+    {
+      "file": "CineRename_0.5.12_nas_linux_aarch64.tar.xz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_nas_linux_aarch64.tar.xz",
+      "size": 13221728
+    },
+    {
+      "file": "CineRename_0.5.12_nas_linux_x86_64.tar.xz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_nas_linux_x86_64.tar.xz",
+      "size": 14572800
+    },
+    {
+      "file": "CineRename_0.5.12_portable_posix_x64.tar.xz",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_portable_posix_x64.tar.xz",
+      "size": 9732592
+    },
+    {
+      "file": "CineRename_0.5.12_portable_windows_x64.zip",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_portable_windows_x64.zip",
+      "size": 12610377
+    },
+    {
+      "file": "CineRename_0.5.12_x64_en-US.msi",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_x64_en-US.msi",
+      "size": 12959744
+    },
+    {
+      "file": "CineRename_0.5.12_x64_en-US.msi.sig",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_x64_en-US.msi.sig",
+      "size": 424
+    },
+    {
+      "file": "CineRename_0.5.12_x64-setup.exe",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_x64-setup.exe",
+      "size": 9407814
+    },
+    {
+      "file": "CineRename_0.5.12_x64-setup.exe.sig",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_x64-setup.exe.sig",
+      "size": 424
+    },
+    {
+      "file": "CineRename_0.5.12_x64.dmg",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_x64.dmg",
+      "size": 14848847
+    },
+    {
+      "file": "CineRename_0.5.12_x64.msix",
+      "source": "release-artifacts/0.5.12/CineRename_0.5.12_x64.msix",
+      "size": 12535161
+    },
+    {
+      "file": "CineRename-0.5.12-1.x86_64.rpm",
+      "source": "release-artifacts/0.5.12/CineRename-0.5.12-1.x86_64.rpm",
+      "size": 13610761
+    },
+    {
+      "file": "CineRename-0.5.12-1.x86_64.rpm.sig",
+      "source": "release-artifacts/0.5.12/CineRename-0.5.12-1.x86_64.rpm.sig",
+      "size": 420
+    }
+  ]
+}
