@@ -1,15 +1,15 @@
 {
-  "version": "0.5.10",
-  "pub_date": "2026-10-27T17:52:11.827Z",
-  "notes": "CineRename 0.5.10",
+  "version": "0.5.11",
+  "pub_date": "2026-10-28T12:10:35.146Z",
+  "notes": "CineRename 0.5.11",
   "platforms": {
     "darwin-x86_64-app": {
-      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.10/CineRename_0.5.10_macos_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjJGM0U3K3JIT3BPTG1yclFMRDcwZjcrV3dwRGs4Nnp0R2NJMXBUV3B6ckh3NTZxOEg4WFlwaDlYRUJXemMvQys0czdiM24yVHVMS3BQY2VvL0NIYndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE1OTg3CWZpbGU6Q2luZVJlbmFtZS5hcHAudGFyLmd6Ck8rUUUwZko2SDU2akc2aVkzNHlqYlU3ZGl5VmNqaVNtS1hlOUZIdVNxcjVRSHE3bTJTMlJnemZHcjd5M2pQZHREZWw3SHNkb2UzaFV5NHdjRk83WUNRPT0K"
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.11/CineRename_0.5.11_macos_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjZQWllaSndpV0t1VFBmMDNzVklzTnlVaEpoQ0ltcmI2TFlNa2ZBTS9TUkFWZW92alc4WTlPd3R1Q2dlTGRhVXloSXQvNzJvNzFYNmhwRTRWVTkyTUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTg4OTU0CWZpbGU6Q2luZVJlbmFtZS5hcHAudGFyLmd6CituOFplY2ZYSDdYcXBxeEdLVkp1NnNzMzZtLy84VVhjbjM5bWFvUnEzRHlQQlk2YWxTRGxLSkRDMFNiU1JteFMrdHZkdms4RURQZG9kS2hqV2lEa0RRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.10/CineRename_0.5.10_macos_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjJGM0U3K3JIT3BPTG1yclFMRDcwZjcrV3dwRGs4Nnp0R2NJMXBUV3B6ckh3NTZxOEg4WFlwaDlYRUJXemMvQys0czdiM24yVHVMS3BQY2VvL0NIYndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE1OTg3CWZpbGU6Q2luZVJlbmFtZS5hcHAudGFyLmd6Ck8rUUUwZko2SDU2akc2aVkzNHlqYlU3ZGl5VmNqaVNtS1hlOUZIdVNxcjVRSHE3bTJTMlJnemZHcjd5M2pQZHREZWw3SHNkb2UzaFV5NHdjRk83WUNRPT0K"
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.11/CineRename_0.5.11_macos_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjZQWllaSndpV0t1VFBmMDNzVklzTnlVaEpoQ0ltcmI2TFlNa2ZBTS9TUkFWZW92alc4WTlPd3R1Q2dlTGRhVXloSXQvNzJvNzFYNmhwRTRWVTkyTUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTg4OTU0CWZpbGU6Q2luZVJlbmFtZS5hcHAudGFyLmd6CituOFplY2ZYSDdYcXBxeEdLVkp1NnNzMzZtLy84VVhjbjM5bWFvUnEzRHlQQlk2YWxTRGxLSkRDMFNiU1JteFMrdHZkdms4RURQZG9kS2hqV2lEa0RRPT0K"
     }
   }
 }
