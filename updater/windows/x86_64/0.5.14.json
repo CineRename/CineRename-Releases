@@ -1,0 +1,19 @@
+{
+  "version": "0.5.14",
+  "pub_date": "2026-11-04T20:29:11.582Z",
+  "notes": "CineRename 0.5.14",
+  "platforms": {
+    "windows-x86_64-msi": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.14/CineRename_0.5.14_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQittcGc5b01ZZEpJSXZSdGF6b25mVThLN1R4OXhMbG0wL1lJVzZSN0FaejRKYXRPMENUa2wyTnJLSnRuRjNzK2cySFFaRll6MlF3REpGc3pqbitzRWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2Nzc4CWZpbGU6Q2luZVJlbmFtZV8wLjUuMTRfeDY0X2VuLVVTLm1zaQpNZ0Ivay9BNnloMWFRUzJZRlArOC85VEt3c2VNazdyeUZwYVZTcEJ2M1NaTUdwczA1RkUyTjFPWFZGVUVJYkRleGZPQ3luYm5acTcyM1MxL2lTSlBDQT09Cg=="
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.14/CineRename_0.5.14_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjEzOWh0Zzc2cSt0MGJPRWo2OHIzMDZUbmVjSUZDU3VQdlhkZmdyQ2w3M3FXSHdVZmFtVEpnbU1FR3RGeTZvb3Y5R3BPc0xqL0JmTVA3aDhMTktVYWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2Nzc4CWZpbGU6Q2luZVJlbmFtZV8wLjUuMTRfeDY0LXNldHVwLmV4ZQo2cTdxRFJxM0FKaU53eFBiM2VzYmhWU29KWGVCZFc2UU5YOVNuaFdBYnNFVFN1Qjg1QTc4K3pnTElKMGlyakh5Nm9qU3Yyc0FSU0gzTERGdjNCTCtBQT09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/CineRename/CineRename-Releases/releases/download/v0.5.14/CineRename_0.5.14_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWmtRN2J4SFVXQjEzOWh0Zzc2cSt0MGJPRWo2OHIzMDZUbmVjSUZDU3VQdlhkZmdyQ2w3M3FXSHdVZmFtVEpnbU1FR3RGeTZvb3Y5R3BPc0xqL0JmTVA3aDhMTktVYWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2Nzc4CWZpbGU6Q2luZVJlbmFtZV8wLjUuMTRfeDY0LXNldHVwLmV4ZQo2cTdxRFJxM0FKaU53eFBiM2VzYmhWU29KWGVCZFc2UU5YOVNuaFdBYnNFVFN1Qjg1QTc4K3pnTElKMGlyakh5Nm9qU3Yyc0FSU0gzTERGdjNCTCtBQT09Cg=="
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.14",
+  "generatedAt": "2026-11-04T20:29:12.122Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.14",
+      "badge": "Latest release",
+      "items": [
+        "Warns when a file or matching media already exists at the destination, with an explicit choice to keep another version.",
+        "Fixes completed moves being reported as missing files when refreshing a partial batch.",
+        "Improves Studio layouts and activity reports in smaller windows and across languages.",
+        "Adds macOS menu commands for importing files, navigating the app and accessing help."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.14",
+      "badge": "Derniere version",
+      "items": [
+        "Signale les fichiers ou médias déjà présents à destination, avec un choix explicite pour conserver une autre version.",
+        "Corrige les fichiers déjà déplacés signalés comme manquants lors de l’actualisation d’un lot partiel.",
+        "Améliore la lisibilité du bilan et l’affichage du Studio dans les petites fenêtres et les différentes langues.",
+        "Adapte les menus macOS avec des commandes d’import, de navigation et d’aide."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.14",
+      "badge": "Ultima version",
+      "items": [
+        "Avisa cuando un archivo o el mismo contenido ya existe en el destino, con una opción explícita para conservar otra versión.",
+        "Corrige los archivos ya trasladados que aparecían como ausentes al actualizar un lote parcial.",
+        "Mejora la presentación de Studio y de los informes de actividad en ventanas pequeñas y en los distintos idiomas.",
+        "Añade comandos a los menús de macOS para importar archivos, navegar por la aplicación y acceder a la ayuda."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.14",
+      "badge": "最新版本",
+      "items": [
+        "当目标位置已存在文件或相同媒体时显示提示，并可明确选择保留另一个版本。",
+        "修复刷新部分完成的批次时，将已移动的文件误报为丢失的问题。",
+        "改进小窗口及不同语言下的 Studio 布局和活动报告显示。",
+        "为 macOS 菜单添加文件导入、应用导航和帮助命令。"
+      ]
+    }
+  }
+}
