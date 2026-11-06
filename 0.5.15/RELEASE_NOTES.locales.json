@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "productName": "CineRename",
+  "version": "0.5.15",
+  "generatedAt": "2026-11-06T08:49:46.767Z",
+  "locales": {
+    "en": {
+      "locale": "en",
+      "title": "CineRename 0.5.15",
+      "badge": "Latest release",
+      "items": [
+        "On macOS, CineRename can automatically connect to a configured SMB share before transferring files to your NAS and optionally disconnect it after a successful batch."
+      ]
+    },
+    "fr": {
+      "locale": "fr",
+      "title": "CineRename 0.5.15",
+      "badge": "Derniere version",
+      "items": [
+        "Sur macOS, CineRename peut connecter automatiquement un partage SMB configuré avant un transfert vers votre NAS et, si vous le souhaitez, le déconnecter une fois le lot terminé avec succès."
+      ]
+    },
+    "es": {
+      "locale": "es",
+      "title": "CineRename 0.5.15",
+      "badge": "Ultima version",
+      "items": [
+        "En macOS, CineRename puede conectarse automáticamente a un recurso SMB configurado antes de transferir archivos al NAS y, si lo deseas, desconectarlo cuando el lote termine correctamente."
+      ]
+    },
+    "zh": {
+      "locale": "zh",
+      "title": "CineRename 0.5.15",
+      "badge": "最新版本",
+      "items": [
+        "在 macOS 上，CineRename 可在向 NAS 传输文件前自动连接已配置的 SMB 共享，并可在批次成功完成后自动断开连接。"
+      ]
+    }
+  }
+}
